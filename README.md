@@ -1,6 +1,8 @@
 # Blog and stuff 
 
-I have fully edited this on Github browser editor. I had not used it in a while and it has now become very good (Q3 2025). I think I will try to only use Github editor for this small project. It comes in very handy when I want to write on mobile devices. 
+I have fully edited this on Github browser editor. I had not used it in a while and it has now become very good (Q3 2025). I think I will try to only use Github editor for this small project. It comes in very handy when I want to write on mobile devices.
+
+Little update: managing files and moving them around is not super comfortable, to move some icons around I managed my repo locally.
 
 ## Useful links from the original template
 
